@@ -9,7 +9,9 @@ permalink: /about/
 ### Люблю писать на фреймворках:
 
 Ruby on Rails
+
 Yii
+
 Yii 2
 
 ### Связаться со мной можно:
