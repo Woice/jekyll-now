@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Информация
 permalink: /about/
 ---
 
-Some information about you!
+Активно программирую с 2008 года.
 
-### More Information
+### Люблю писать на фреймворках:
 
-A place to include any other types of information that you'd like to include about yourself.
+Ruby on Rails
+Yii
+Yii 2
 
-### Contact me
+### Связаться со мной можно:
 
-[email@domain.com](mailto:email@domain.com)
+[woice.ks@gmail.com](mailto:woice.ks@gmail.com)
